@@ -1,20 +1,20 @@
 
 # Manuals and specifications
 
-This book is a *tutorial*. It aims to help you gradually learn the language. But once you're familiar with the basics, you'll need other sources.
+Buku ini adalah sebuah *tutorial*. Tujuannya adalah membantu kamu mempelajari bahasa ini secara bertahap. Tapi kalau kamu sudah paham dasarnya, kamu akan memerlukan sumber-sumber lain.
 
 
 ## Specification
 
-**The ECMA-262 specification** contains the most in-depth, detailed and formalized information about JavaScript. It defines the language.
+**The ECMA-262 specification** berisikan informasi-informasi yang paling mendalam, terperinci,dan terumus mengenai JavaScript. Ia mendefinisikan bahasa ini.
 
-But being that formalized, it's difficult to understand at first. So if you need the most trustworthy source of information about the language details, it's the right place. But it's not for everyday use.
+Namun saking terumuskannya, awalnya akan sulit dipahami. Jadi jika kamu perlu sumber informasi yang paling terpercaya tentang detail bahasa ini, disinilah tempat yang tepat. Tapi ini bukan untuk penggunaan sehari-hari.
 
-The latest draft is at <https://tc39.es/ecma262/>.
+Draf terbaru dapat kamu temukan di <https://tc39.es/ecma262/>.
 
-To read about bleeding-edge features, that are not yet widely supported, see proposals at <https://github.com/tc39/proposals>.
+Untuk membaca mengeai fitur-fitur terbary, yang belum didukung secara luas, lihat proposal di <https://github.com/tc39/proposals>.
 
-Also, if you're in developing for the browser, then there are other specs covered in the [second part](info:browser-environment) of the tutorial.
+Juga, jika kamu sedang mengembangkan untuk browser, ada spesifikasi lain yang dibahas di [second part](info:browser-environment) tutorial ini.
 
 ## Manuals
 
